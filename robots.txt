@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://azoophoon.gameshelsinki.com/sitemap.xml
